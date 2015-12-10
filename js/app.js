@@ -1,56 +1,8 @@
 var SLConfig = {
-    "current_user": {
-        "id": 338701,
-        "username": "vinaypuppal",
-        "name": "VINAY PUPPAL",
-        "description": null,
-        "thumbnail_url": "https://lh3.googleusercontent.com/-I1tdG4c0RlI/AAAAAAAAAAI/AAAAAAAAABQ/_rTjxl-0yaM/photo.jpg?sz=50",
-        "pro": false,
-        "enterprise": false,
-        "enterprise_manager": false,
-        "settings": {
-            "id": 170441,
-            "present_controls": true,
-            "present_upsizing": false,
-            "present_notes": true,
-            "editor_grid": true,
-            "editor_snap": true,
-            "developer_mode": true
-        },
-        "registered": true,
-        "email": "puppalvinay@gmail.com",
-        "notify_on_receipt": true,
-        "billing_address": null,
-        "editor_tutorial_completed": true,
-        "manually_upgraded": false
-    },
     "deck": {
-        "id": 563151,
-        "slug": "medicloc-presentation-1-1",
         "title": "Medicloc | Presentation",
         "description": "Medicloc is focused on providing location based medical services in the form of E-Pharmacies,E-Appointments,E-Bloodbanks,Social Health.",
         "visibility": "all",
-        "published_at": "2015-12-07T16:00:34.637Z",
-        "sanitize_messages": null,
-        "thumbnail_url": "https://s3.amazonaws.com/media-p.slid.es/thumbnails/secure/31fb67/decks.jpg",
-        "view_count": 0,
-        "user": {
-            "id": 338701,
-            "username": "vinaypuppal",
-            "name": "VINAY PUPPAL",
-            "description": null,
-            "thumbnail_url": "https://lh3.googleusercontent.com/-I1tdG4c0RlI/AAAAAAAAAAI/AAAAAAAAABQ/_rTjxl-0yaM/photo.jpg?sz=50",
-            "pro": false,
-            "enterprise": false,
-            "enterprise_manager": false,
-            "settings": {
-                "id": 170441,
-                "present_controls": true,
-                "present_upsizing": false,
-                "present_notes": true
-            },
-            "registered": true
-        },
         "background_transition": "convex",
         "transition": "concave",
         "theme_id": null,
@@ -65,8 +17,6 @@ var SLConfig = {
         "share_notes": false,
         "slide_number": true,
         "rtl": false,
-        "version": 2,
-        "access_token": "JuHh8WxmMq4a1xKoz6pKxzjMbs8r",
         "notes": {}
     }
 };
